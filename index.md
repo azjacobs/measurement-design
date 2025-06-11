@@ -7,6 +7,10 @@ layout: default
 
 ## FAccT 2025 Translation Tutorial: AI Measurement as a Collaborative Design Practice 
 
+[Thursday, 26 June 3:15 PM - 4:15 PM in New Stage C](https://programs.sigchi.org/facct/2025/program/session/197054)
+
+[ACM Conference on Fairness, Accountability, and Transparency](https://facctconference.org/2025/)
+
 ![Measurement Design Lifecycle](assets/framework_labeled_tutorialabstract.png)
 
 
@@ -24,17 +28,17 @@ In the five years since, a small but growing body of work in the FAccT community
 
 ## Organizers
 
-* Anna Kawakami
-* Su Lin Blodgett 
-* Solon Barocas
-* Alex Chouldechova
-* Abigail Jacobs
-* Emily Sheng
-* Jenn Wortman Vaughan
-* Hanna Wallach
-* Amy Winecoff
-* Angelina Wang
-* Haiyi Zhu
-* Ken Holstein
+* [Anna Kawakami](https://annakawakami.com/)
+* [Su Lin Blodgett](https://sblodgett.github.io/) 
+* [Solon Barocas](http://solon.barocas.org/)
+* [Alex Chouldechova](https://www.microsoft.com/en-us/research/people/alexandrac/)
+* [Abigail Jacobs](https://azjacobs.com/)
+* [Emily Sheng](https://ewsheng.github.io/)
+* [Jenn Wortman Vaughan](https://www.jennwv.com/)
+* [Hanna Wallach](https://www.microsoft.com/en-us/research/people/wallach/)
+* [Amy Winecoff](https://cdt.org/staff/amy-winecoff/)
+* [Angelina Wang](https://angelina-wang.github.io/)
+* [Haiyi Zhu](https://haiyizhu.com/)
+* [Ken Holstein](https://www.thecoalalab.com/kenholstein)
 
 ## 
